@@ -112,6 +112,9 @@ Especialidades: `CLINICO_GERAL`, `CARDIOLOGIA`, `DERMATOLOGIA`, `PEDIATRIA`, `OR
 | 404 | Recurso não encontrado |
 | 422 | Regra de negócio violada (ex.: médico ocupado) |
 
-## Autor
+## Autores
 
-Victor Cavalcante · [GitHub](https://github.com/vic-cavalcant3) · [LinkedIn](https://linkedin.com/in/vic-cavalcant3)
+| Nome | GitHub |
+|---|---|
+| Victor Cavalcante | [@vic-cavalcant3](https://github.com/vic-cavalcant3) |
+| Raissa Gouveia | [@raissagouvea](https://github.com/raissagouvea) |
